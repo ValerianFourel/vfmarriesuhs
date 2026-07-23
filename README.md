@@ -1,6 +1,6 @@
 # Wedding Website — 3 April 2027 · Seoul
 
-A small, fast, **trilingual (EN · FR · DE)** static site with everything guests need:
+A small, fast, **four-language (FR · EN · DE · KO)** static site with everything guests need:
 the date, the venue, how to get there, where to stay, and what to wear.
 
 Plain HTML + CSS + vanilla JavaScript. No framework, no build step — just serve the files.
@@ -13,7 +13,8 @@ Wedding/
 ├── i18n/
 │   ├── en.json                 # ← all English copy (source of truth)
 │   ├── fr.json                 # ← all French copy
-│   └── de.json                 # ← all German copy
+│   ├── de.json                 # ← all German copy
+│   └── ko.json                 # ← all Korean copy
 ├── assets/
 │   ├── placeholder-couple.svg  # swap for a real photo of you two
 │   └── placeholder-venue.svg   # swap for a photo of the venue
@@ -68,14 +69,13 @@ Notes:
 
 ## How the languages work
 
-- First visit: the browser language is detected — French and German browsers get FR/DE,
-  everyone else gets EN.
-- Clicking **EN · FR · DE** (header or footer) switches instantly and remembers the
-  choice in `localStorage`.
+- First visit lands on **French**.
+- Clicking **FR · EN · DE · KO** (header or footer) switches instantly and remembers
+  the choice in `localStorage`.
 - `<html lang>` is updated on every switch, and the Korean address is tagged `lang="ko"`.
-- A native speaker can proofread by editing `i18n/fr.json` / `i18n/de.json` only —
-  no HTML knowledge needed. (French strings use non-breaking spaces before `:` `?` `!`,
-  which is intentional.)
+- A native speaker can proofread by editing `i18n/fr.json`, `i18n/de.json` or
+  `i18n/ko.json` only — no HTML knowledge needed. (French strings use non-breaking
+  spaces before `:` `?` `!`, which is intentional.)
 
 ## Add photos
 

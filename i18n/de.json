@@ -7,8 +7,8 @@
     "groupCode": "[CODE]"
   },
   "meta": {
-    "title": "{bride} & {groom} — Freitag, 3. April 2027 · Seoul",
-    "description": "Alle Infos zur Hochzeit von {bride} & {groom} am Freitag, dem 3. April 2027 in Seoul — Location, Anreise, Hotels und Dresscode."
+    "title": "{bride} & {groom} — Samstag, 3. April 2027 · Seoul",
+    "description": "Alle Infos zur Hochzeit von {bride} & {groom} am Samstag, dem 3. April 2027 in Seoul — Location, Anreise, Hotels und Dresscode."
   },
   "a11y": {
     "skip": "Zum Inhalt springen",
@@ -24,7 +24,7 @@
   },
   "hero": {
     "eyebrow": "Wir heiraten",
-    "date": "Freitag, 3. April 2027 · Seoul, Südkorea",
+    "date": "Samstag, 3. April 2027 · Seoul, Südkorea",
     "welcome": "Und nichts würde uns mehr freuen, als das gemeinsam mit euch in Seoul zu feiern — unter blühenden Kirschbäumen."
   },
   "photos": {
@@ -35,7 +35,7 @@
     "eyebrow": "Der Tag",
     "title": "Auf einen Blick",
     "dateLabel": "Datum",
-    "dateValue": "Freitag, 3. April 2027",
+    "dateValue": "Samstag, 3. April 2027",
     "ceremonyLabel": "Trauung",
     "ceremonyValue": "{ceremonyTime}",
     "ceremonyNote": "Bitte seid 20–30 Minuten früher da.",
@@ -95,7 +95,7 @@
     "questions": "Eine kurze WhatsApp-Nachricht oder E-Mail ist der schnellste Weg zu uns — jemand aus der Hochzeitsgesellschaft meldet sich sofort zurück:"
   },
   "footer": {
-    "dateLine": "Freitag, 3. April 2027 · Ramada Seoul Sindorim Hotel",
+    "dateLine": "Samstag, 3. April 2027 · Ramada Seoul Sindorim Hotel",
     "closing": "Wir freuen uns riesig auf euch in Seoul."
   }
 }

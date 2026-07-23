@@ -7,8 +7,8 @@
     "groupCode": "[CODE]"
   },
   "meta": {
-    "title": "{bride} & {groom} — vendredi 3 avril 2027 · Séoul",
-    "description": "Toutes les informations pour le mariage de {bride} & {groom} à Séoul, le vendredi 3 avril 2027 : lieu, accès, hôtels et dress code."
+    "title": "{bride} & {groom} — samedi 3 avril 2027 · Séoul",
+    "description": "Toutes les informations pour le mariage de {bride} & {groom} à Séoul, le samedi 3 avril 2027 : lieu, accès, hôtels et dress code."
   },
   "a11y": {
     "skip": "Aller au contenu",
@@ -24,7 +24,7 @@
   },
   "hero": {
     "eyebrow": "Nous nous marions",
-    "date": "Vendredi 3 avril 2027 · Séoul, Corée du Sud",
+    "date": "Samedi 3 avril 2027 · Séoul, Corée du Sud",
     "welcome": "Et rien ne nous ferait plus plaisir que de fêter cela avec vous, à Séoul, sous les cerisiers en fleurs."
   },
   "photos": {
@@ -35,7 +35,7 @@
     "eyebrow": "Le jour J",
     "title": "En un coup d'œil",
     "dateLabel": "Date",
-    "dateValue": "Vendredi 3 avril 2027",
+    "dateValue": "Samedi 3 avril 2027",
     "ceremonyLabel": "Cérémonie",
     "ceremonyValue": "{ceremonyTime}",
     "ceremonyNote": "Merci d'arriver 20 à 30 minutes en avance.",
@@ -95,7 +95,7 @@
     "questions": "Un petit message WhatsApp ou un e-mail est le meilleur moyen de nous joindre — quelqu'un du cortège vous répondra très vite :"
   },
   "footer": {
-    "dateLine": "Vendredi 3 avril 2027 · Ramada Seoul Sindorim Hotel",
+    "dateLine": "Samedi 3 avril 2027 · Ramada Seoul Sindorim Hotel",
     "closing": "Nous avons hâte de vous retrouver à Séoul."
   }
 }

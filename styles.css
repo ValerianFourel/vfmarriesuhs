@@ -54,6 +54,15 @@ a { color: var(--accent); }
 
 [lang="ko"] { font-family: var(--kr); }
 
+/* Whole-page Korean: system Korean fonts, gentler tracking */
+html[lang="ko"] {
+  --serif: "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", sans-serif;
+  --sans: "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", sans-serif;
+}
+html[lang="ko"] .hero-eyebrow,
+html[lang="ko"] .hero-date,
+html[lang="ko"] .eyebrow { letter-spacing: 0.12em; }
+
 ::selection { background: var(--blush); }
 
 :focus-visible {

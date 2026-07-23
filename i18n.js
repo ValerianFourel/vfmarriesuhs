@@ -5,15 +5,15 @@
      or data-i18n-alt / -title / -aria-label / -content (sets attribute)
    - {token} placeholders are filled from the "couple" block of
      the active locale file, so names/dates/codes are edited once
-   - First visit: auto-detects the browser language (EN unless FR/DE);
-     an explicit choice is persisted in localStorage
+   - First visit lands on French; an explicit choice from the
+     switcher is persisted in localStorage
    ============================================================ */
 
 (function () {
   'use strict';
 
-  var SUPPORTED = ['en', 'fr', 'de'];
-  var DEFAULT_LANG = 'en';
+  var SUPPORTED = ['en', 'fr', 'de', 'ko'];
+  var DEFAULT_LANG = 'fr';
   var STORAGE_KEY = 'wedding.lang';
 
   var strings = null;
@@ -38,15 +38,10 @@
   }
 
   function detectLanguage() {
+    // French is the landing language; a language the visitor
+    // explicitly chose earlier wins.
     var stored = readStoredLang();
-    if (stored) return stored;
-
-    var preferred = navigator.languages || [navigator.language || ''];
-    for (var i = 0; i < preferred.length; i++) {
-      var code = String(preferred[i]).slice(0, 2).toLowerCase();
-      if (SUPPORTED.indexOf(code) !== -1) return code;
-    }
-    return DEFAULT_LANG;
+    return stored || DEFAULT_LANG;
   }
 
   function lookup(key) {
