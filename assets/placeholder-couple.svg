@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7e4e6"/>
+      <stop offset="0.55" stop-color="#f6efe7"/>
+      <stop offset="1" stop-color="#e9eee3"/>
+    </linearGradient>
+    <g id="petal"><ellipse cx="0" cy="-16" rx="10" ry="16" fill="#e8b7bf"/></g>
+    <g id="flower">
+      <use href="#petal"/>
+      <use href="#petal" transform="rotate(72)"/>
+      <use href="#petal" transform="rotate(144)"/>
+      <use href="#petal" transform="rotate(216)"/>
+      <use href="#petal" transform="rotate(288)"/>
+      <circle r="6" fill="#c98a94"/>
+    </g>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <g opacity="0.9">
+    <use href="#flower" transform="translate(600 390) scale(2.4)"/>
+    <use href="#flower" transform="translate(508 468) scale(1.25) rotate(24)"/>
+    <use href="#flower" transform="translate(700 336) scale(1.5) rotate(-18)"/>
+    <use href="#flower" transform="translate(668 476) scale(0.85) rotate(40)"/>
+  </g>
+  <rect x="26" y="26" width="1148" height="748" fill="none" stroke="#ffffff" stroke-width="3" opacity="0.7"/>
+</svg>

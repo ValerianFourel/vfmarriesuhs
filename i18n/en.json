@@ -1,0 +1,101 @@
+{
+  "couple": {
+    "bride": "Hyunseo Um",
+    "groom": "Valerian Fourel",
+    "ceremonyTime": "5:00 PM",
+    "rsvpDate": "28 February 2027",
+    "groupCode": "[CODE]"
+  },
+  "meta": {
+    "title": "{bride} & {groom} — Friday, 3 April 2027 · Seoul",
+    "description": "Everything you need for {bride} & {groom}'s wedding in Seoul on Friday, 3 April 2027 — venue, directions, hotels and dress code."
+  },
+  "a11y": {
+    "skip": "Skip to content",
+    "langLabel": "Choose a language",
+    "navLabel": "Site sections"
+  },
+  "nav": {
+    "day": "The Day",
+    "location": "Getting There",
+    "stay": "Where to Stay",
+    "dress": "Dress Code",
+    "know": "Good to Know"
+  },
+  "hero": {
+    "eyebrow": "We're getting married",
+    "date": "Friday, 3 April 2027 · Seoul, South Korea",
+    "welcome": "And we would love nothing more than to celebrate with you in Seoul, under the cherry blossoms."
+  },
+  "photos": {
+    "coupleAlt": "{bride} and {groom} — photo coming soon",
+    "venueAlt": "The Ramada by Wyndham Seoul Sindorim — photo coming soon"
+  },
+  "day": {
+    "eyebrow": "The Day",
+    "title": "At a Glance",
+    "dateLabel": "Date",
+    "dateValue": "Friday, 3 April 2027",
+    "ceremonyLabel": "Ceremony",
+    "ceremonyValue": "{ceremonyTime}",
+    "ceremonyNote": "Please arrive 20–30 minutes early.",
+    "venueLabel": "Venue",
+    "receptionLabel": "Reception",
+    "receptionValue": "Immediately following, at the same venue"
+  },
+  "location": {
+    "eyebrow": "Location",
+    "title": "Getting There",
+    "venueLabel": "The venue",
+    "addressLabel": "Address",
+    "addressKrLabel": "Korean address — show this to your driver",
+    "mapLink": "Open in Google Maps",
+    "mapTitle": "Map of the Ramada by Wyndham Seoul Sindorim",
+    "subwayTitle": "By subway",
+    "sindorim": "Lines 1 & 2, Exit 5 — about a 10-minute walk (600 m).",
+    "guro": "Line 1, Exit 3 — a similar distance.",
+    "icnTitle": "From Incheon Airport (ICN)",
+    "icn": "About 60–75 minutes by taxi or AREX train. Airport limousine bus 6018 runs toward Sindorim Station.",
+    "gmpTitle": "From Gimpo Airport (GMP)",
+    "gmp": "About a 30-minute drive — the closer, easier airport.",
+    "taxiTitle": "Taxi tip",
+    "taxi": "Show the driver the Korean address above — it's the most reliable way to arrive."
+  },
+  "stay": {
+    "eyebrow": "Hotels",
+    "title": "Where to Stay",
+    "intro": "Four places we trust — from a room in the wedding building itself to a short taxi ride away.",
+    "badgeVenue": "The venue",
+    "badgeTopPick": "Top pick for guests",
+    "book": "Book",
+    "ramadaDesc": "Stay in the same building as the wedding — the simplest option of all. A comfortable 4-star with 104 rooms, a fitness centre and breakfast at Café Rara.",
+    "ramadaCallout": "Preferential room rates are available for our wedding guests — when booking, mention the {bride} & {groom} wedding on 3 April 2027, or use group code {groupCode}.",
+    "linkDesc": "The newest and best-rated hotel nearby (Marriott, 4.5★), a 2-minute walk from the Ramada. Spacious modern rooms, a pool, a gym and English-speaking staff.",
+    "fairfieldDesc": "A reliable international mid-range choice, one Line 1 stop east (about 10 minutes by taxi). Compact but spotless rooms and English-speaking staff.",
+    "lotteDesc": "A comfortable 4-star near Guro Digital Complex (about 10 minutes by taxi south). The airport limousine bus stops right at the door — handy from Incheon, or for older relatives."
+  },
+  "dress": {
+    "eyebrow": "What to Wear",
+    "title": "Dress Code",
+    "lead": "Semi-formal / cocktail attire",
+    "men": "Men: a suit or a smart jacket with a collared shirt — tie optional.",
+    "women": "Women: a cocktail dress or an elegant outfit.",
+    "avoid": "Please avoid all-white looks (reserved for the bride) and very casual wear such as jeans, trainers or shorts.",
+    "weatherTitle": "The weather that week",
+    "weather": "Early April in Seoul is mild but cool — around 12–17 °C by day, with chilly evenings near 5 °C. It's cherry-blossom season and sometimes breezy, so bring a light coat or wrap."
+  },
+  "know": {
+    "eyebrow": "Practicalities",
+    "title": "Good to Know",
+    "rsvpTitle": "RSVP",
+    "rsvp": "Please reply by {rsvpDate} — a click in your Paperless Post invitation is enough, or just send us a message:",
+    "giftsTitle": "Gifts",
+    "gifts": "In Korea, wedding gifts work a little differently: instead of wrapped presents, guests bring a simple envelope of cash (축의금, chugeuigeum) and hand it in at the welcome desk on the way in.",
+    "questionsTitle": "Questions on the day",
+    "questions": "A quick WhatsApp message or email is the fastest way to reach us — someone from the wedding party will get back to you right away:"
+  },
+  "footer": {
+    "dateLine": "Friday, 3 April 2027 · Ramada by Wyndham Seoul Sindorim",
+    "closing": "We can't wait to see you in Seoul."
+  }
+}
