@@ -29,7 +29,7 @@
   },
   "photos": {
     "coupleAlt": "{bride} et {groom} — photo à venir",
-    "venueAlt": "Le Ramada by Wyndham Seoul Sindorim — photo à venir"
+    "venueAlt": "Le Ramada Seoul Sindorim Hotel — photo à venir"
   },
   "day": {
     "eyebrow": "Le jour J",
@@ -41,7 +41,7 @@
     "ceremonyNote": "Merci d'arriver 20 à 30 minutes en avance.",
     "venueLabel": "Lieu",
     "receptionLabel": "Réception",
-    "receptionValue": "Juste après la cérémonie, au même endroit"
+    "receptionValue": "Juste après la cérémonie, au Sky Garden, au 14e étage"
   },
   "location": {
     "eyebrow": "Le lieu",
@@ -50,7 +50,7 @@
     "addressLabel": "Adresse",
     "addressKrLabel": "Adresse en coréen — à montrer à votre chauffeur",
     "mapLink": "Ouvrir dans Google Maps",
-    "mapTitle": "Carte du Ramada by Wyndham Seoul Sindorim",
+    "mapTitle": "Carte du Ramada Seoul Sindorim Hotel",
     "subwayTitle": "En métro",
     "sindorim": "Lignes 1 et 2, sortie 5 — environ 10 minutes à pied (600 m).",
     "guro": "Ligne 1, sortie 3 — à une distance comparable.",
@@ -95,7 +95,7 @@
     "questions": "Un petit message WhatsApp ou un e-mail est le meilleur moyen de nous joindre — quelqu'un du cortège vous répondra très vite :"
   },
   "footer": {
-    "dateLine": "Vendredi 3 avril 2027 · Ramada by Wyndham Seoul Sindorim",
+    "dateLine": "Vendredi 3 avril 2027 · Ramada Seoul Sindorim Hotel",
     "closing": "Nous avons hâte de vous retrouver à Séoul."
   }
 }
